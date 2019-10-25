@@ -16,6 +16,7 @@
 		BD5F97072359449B008C0915 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD5F97052359449B008C0915 /* LaunchScreen.storyboard */; };
 		BD5F97122359449B008C0915 /* demo2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5F97112359449B008C0915 /* demo2Tests.swift */; };
 		BD5F971D235949C3008C0915 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5F971C235949C3008C0915 /* File.swift */; };
+		BD8F32842362932200593B7F /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8F32832362932200593B7F /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		BD5F97112359449B008C0915 /* demo2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demo2Tests.swift; sourceTree = "<group>"; };
 		BD5F97132359449B008C0915 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD5F971C235949C3008C0915 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		BD8F32832362932200593B7F /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				BD5F96FB23594492008C0915 /* demo2.xcdatamodeld */,
 				BD5F97022359449B008C0915 /* Preview Content */,
 				BD5F971C235949C3008C0915 /* File.swift */,
+				BD8F32832362932200593B7F /* TableViewCell.swift */,
 			);
 			path = demo2;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				BD5F971D235949C3008C0915 /* File.swift in Sources */,
 				BD5F96F823594492008C0915 /* AppDelegate.swift in Sources */,
 				BD5F96FD23594492008C0915 /* demo2.xcdatamodeld in Sources */,
+				BD8F32842362932200593B7F /* TableViewCell.swift in Sources */,
 				BD5F96FF23594492008C0915 /* ContentView.swift in Sources */,
 				BD5F96FA23594492008C0915 /* SceneDelegate.swift in Sources */,
 			);
